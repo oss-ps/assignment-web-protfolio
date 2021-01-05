@@ -36,7 +36,6 @@ h2{
     .second-section{
         width:50%;
         margin-top:4%;
-       
         padding-left: 2px;
         float:right;
     }
@@ -64,6 +63,33 @@ h2{
         border-radius: 10px;;
     }
 
-   .material-icons{
+    .main{
+        width:80%;
+        margin-top:40%;
+        margin-left:150px;
+        font-family: 'Libre Baskerville', serif;
+        font-weight: normal;
+        font-size:50px;
+        text-align:center;
         
-   }
+    }
+    .main-1{
+        color:#7FFF00;
+    }
+    
+    
+    
+    .a{
+        width:50%;
+        border:1px solid white;
+        border-radius:10px;
+        margin-top:5px;
+        padding:10px;
+        display: inline-block;
+        
+    }
+    .b{
+        margin:10px;
+        padding:10px;
+        float:right;
+    }
