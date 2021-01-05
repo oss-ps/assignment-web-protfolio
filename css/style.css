@@ -1,7 +1,69 @@
 body{
+    margin: 0;
     font-family: 'Anton', sans-serif;
 }
 h1{
-    font-size:50px;
-    
+    font-size:50px;    
 }
+
+h2{
+    font-size: 50px;
+    font-family: 'Pirata One', cursive;
+}
+
+.blue-color{
+    color:lightblue;
+}
+.salmon-color{
+    color:salmon;
+}
+.black-color{
+    color:seagreen;
+}
+
+.first-section{
+    width:45%;
+    margin-left: 5%;
+    padding-left: 2px; 
+    float:left;
+}
+.img-1{
+        
+        width: 35%;
+        margin-top:25px;
+        margin-left:5%;
+    }
+    .second-section{
+        width:50%;
+        margin-top:4%;
+       
+        padding-left: 2px;
+        float:right;
+    }
+    .img-2{
+        width:28%;
+        margin-top:30px;
+        margin-left:5%;
+        padding-left: 10px;
+        float:left;
+    }
+    .second-part{
+        margin-top:5%;
+    }
+    img{
+        width:100%;
+    }
+    p{
+        text-align: justify;
+        color:gray;
+    }
+    .link-button{
+        text-decoration: none;
+        background-image: linear-gradient(90deg, lime, #66CDAA);
+        padding:10px 20px;
+        border-radius: 10px;;
+    }
+
+   .material-icons{
+        
+   }
