@@ -79,18 +79,62 @@ h2{
     }
     
     
-    
-    .a{
-        width:50%;
-        border:1px solid white;
-        border-radius:10px;
-        margin-top:5px;
-        padding:10px;
-        display: inline-block;
-        
+       
+    .img-box1{
+        width:350px;
+        float:left;
+        margin-left:70px;
+        border:10px solid white;
+        border-image: linear-gradient(45deg, white, #FDF5E6)
     }
-    .b{
-        margin:10px;
-        padding:10px;
-        float:right;
-    }
+
+   .box-image-size{
+       width:68%;
+       margin-top:40%;
+       margin-left:15%;
+       padding-left:15px;
+   }
+   .WI{
+       float:left;
+   }
+   #working{
+    font-size:40px;
+    font-weight: 450px;
+   }
+   #div-2{
+       padding-top:5%;
+       margin-left:70px;
+   }
+   #div-1{
+       margin-left: 5%;
+       margin-top:0;
+   }
+   .four-part{
+       background-image: url(../image/Group.png);
+       background-repeat: no-repeat;
+       background-size: 50%;
+       height: 200px;
+       width:82%;
+       margin-left:25%;
+       margin-top:10%;
+       padding-left:5%;
+       
+   }
+       
+   
+   .chat-button{
+       text-decoration: none;
+       background-image: linear-gradient(90deg, #66CDAA, #6B8E23);
+       border-radius: 5px;
+       padding:5px 5px;
+   }
+   .third-part{
+    overflow: hidden;
+   }
+   footer p {
+    text-align: center;
+    font-size: 12px;
+  }
+  
+   
+      
